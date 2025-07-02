@@ -1,4 +1,4 @@
-# Kotlin-ile-Besin-Kitab-
+# Kotlin-ile-Besin-Kitabı-
 MVVM Yapısını Kullanarak Veri tabanından Besinleri Çeken Uygulama 
 
 ![WhatsApp Görsel 2025-07-02 saat 20 50 30_df074425](https://github.com/user-attachments/assets/6df0e2ac-866c-43a1-a58d-32a7c97444d6)
